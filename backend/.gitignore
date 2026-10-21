@@ -33,3 +33,6 @@ build/
 *.njsproj
 *.sln
 *.sw?
+
+# Firebase keys
+serviceAccountKey.json
